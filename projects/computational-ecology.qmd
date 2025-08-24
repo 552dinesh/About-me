@@ -1,10 +1,10 @@
 ---
-title: "Computational Ecology"
+title: "Metabolomic Differentiation"
 image: code.jpg
 # categories: 
-#   - ecoinformatics
+#   - Ecometabolomics
 ---
 
-A computational approach to tough questions in ecology
+A metabolomic approach to tough questions in ecology at high resolution
 
-![](code.jpg)
+![](Root.jpg)
