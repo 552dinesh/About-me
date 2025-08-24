@@ -1,6 +1,6 @@
 ---
 title: "Metabolomic Differentiation"
-image: code.jpg
+image: Root.jpg
 # categories: 
 #   - Ecometabolomics
 ---
