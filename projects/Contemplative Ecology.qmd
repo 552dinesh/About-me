@@ -1,6 +1,6 @@
 ---
 title: "Contemplative Ecology"
-image: Root.jpg
+image: images.jpg
 # categories: 
 #   - Ecometabolomics
 ---
