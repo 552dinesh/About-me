@@ -20,4 +20,7 @@ format_pub <- function(pub) {
   paste(pub$author, pub$year, pub$title, paste0("*", pub$journal, "*"), pub$number, sep = ". ")
 }
 
+# Generate publications.qmd from your Scholar profile
+scholar_pubs("OPzKV_0AAAAJ")
+
 
