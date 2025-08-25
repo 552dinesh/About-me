@@ -9,8 +9,12 @@
   {
     "listing": "/Projects.html",
     "items": [
-      "/projects/contemplative-ecology.html",
-      "/projects/computational-ecology.html"
+      "/projects/Trait scaling.html",
+      "/projects/Physiological ecology.html",
+      "/projects/Population and Community ecology.html",
+      "/projects/Diversity and distribution.html",
+      "/projects/Floral variation.html",
+      "/projects/Molecular interactions ecology.html"
     ]
   }
 ]
