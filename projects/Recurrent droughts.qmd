@@ -1,6 +1,6 @@
 ---
 title: "Recurrent droughts"
-image: Root.jpg
+image: Recurrent.jpg
 # categories: 
 #   - Drought
 ---
