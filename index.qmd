@@ -1,5 +1,5 @@
 ---
-title: "Dinesh Thakur"
+title: "Dinesh Thakur, PhD"
 about:
   template: trestles
   image: DINESH.jpg
@@ -29,8 +29,10 @@ about:
     #   href: https://github.com
 ---
 
-Thakur, Dinesh, PhD
-Researcher unique identifier(s): ORCID ID: 0000-0002-4610-5444; Research ID: AAL-2676-2020; SCOPUS ID: 57201395487
+ORCID ID: ["0000-0002-4610-5444"]("https://orcid.org/0000-0002-4610-5444")
+Research ID: ["AAL-2676-2020"](https://www.webofscience.com/wos/author/record/AAL-2676-2020) 
+SCOPUS ID: 57201395487
+
 Date of birth: 23rd May 1988
 Nationality: India
 Current residency: Czech Republic
@@ -38,7 +40,7 @@ Current residency: Czech Republic
 
 ## Education
 
-2019 	PhD (Plant Ecology), Academy of Scientific and Innovative Research campus at Council of Scientific and Industrial Research (CSIR), Institute of Himalayan Bioresource Technology (IHBT), Palampur, India. 
+2019 	PhD (Biological Sciences, Specialization - Plant Ecology), Academy of Scientific and Innovative Research at ["Council of Scientific and Industrial Research (CSIR), Institute of Himalayan Bioresource Technology (IHBT), Palampur, India"](https://www.ihbt.res.in/en/). 
 2010 	Master’s in Science - Botany, Department of Botany, Meerut College, Chaudhary Charan Singh University, Meerut, India.
 2008	Bachelor’s in Science - Life Sciences, Degree College Kathua, University of Jammu, India.
 
