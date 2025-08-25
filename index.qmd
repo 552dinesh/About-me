@@ -2,7 +2,7 @@
 title: "Dinesh Thakur"
 about:
   template: trestles
-  image: avatar.jpg
+  image: DINESH.jpg
   links:
     - icon: envelope
       # text: email
@@ -18,7 +18,7 @@ about:
     - icon: linkedin
       href: https://linkedin.com/
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=OPzKV_0AAAAJ&hl=en
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
       href: https://orcid.org/0000-0002-4610-5444
     # - icon: twitter
