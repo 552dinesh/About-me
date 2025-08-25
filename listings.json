@@ -9,10 +9,12 @@
   {
     "listing": "/Projects.html",
     "items": [
+      "/projects/Trait based ecology.html",
       "/projects/Trait scaling.html",
       "/projects/Physiological ecology.html",
       "/projects/Population and Community ecology.html",
       "/projects/Diversity and distribution.html",
+      "/projects/Open data Networking.html",
       "/projects/Floral variation.html",
       "/projects/Molecular interactions ecology.html"
     ]
