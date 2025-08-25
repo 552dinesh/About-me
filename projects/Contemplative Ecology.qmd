@@ -1,0 +1,10 @@
+---
+title: "Contemplative Ecology"
+image: Root.jpg
+# categories: 
+#   - Ecometabolomics
+---
+
+Learn from nature
+
+![](images.jpg)
