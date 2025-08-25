@@ -29,9 +29,7 @@ about:
     #   href: https://github.com
 ---
 
-ORCID ID: ["0000-0002-4610-5444"](https://orcid.org/0000-0002-4610-5444)
 Research ID: ["AAL-2676-2020"](https://www.webofscience.com/wos/author/record/AAL-2676-2020) 
-SCOPUS ID: 57201395487
 
 Date of birth: 23rd May 1988
 Nationality: India
