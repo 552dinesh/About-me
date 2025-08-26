@@ -10,40 +10,40 @@
 <atom:link href="https://pakillo.github.io/academic-website-template-Quarto/Blog.xml" rel="self" type="application/rss+xml"/>
 <description>I am a scientist</description>
 <generator>quarto-1.7.33</generator>
-<lastBuildDate>Mon, 21 Oct 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 Aug 2025 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>The value of contemplative ecology</title>
-  <dc:creator>John Doe</dc:creator>
+  <title>The value of high resolution ecology</title>
+  <dc:creator>Dinesh Thakur</dc:creator>
   <link>https://pakillo.github.io/academic-website-template-Quarto/posts/another-post.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://pakillo.github.io/academic-website-template-Quarto/projects/contemplation.jpg" class="img-fluid"></p>
+<p><img src="https://pakillo.github.io/academic-website-template-Quarto/projects/root.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
-  <category>contemplative</category>
+  <category>Eco-Metabolomics</category>
   <guid>https://pakillo.github.io/academic-website-template-Quarto/posts/another-post.html</guid>
-  <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>The value of computational ecology</title>
-  <dc:creator>John Doe</dc:creator>
+  <title>Plant Diversity</title>
+  <dc:creator>DInesh Thakur</dc:creator>
   <link>https://pakillo.github.io/academic-website-template-Quarto/posts/new-post.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://pakillo.github.io/academic-website-template-Quarto/projects/code.jpg" class="img-fluid"></p>
+<p><img src="https://pakillo.github.io/academic-website-template-Quarto/projects/images.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
-  <category>computational</category>
+  <category>Diversity</category>
   <guid>https://pakillo.github.io/academic-website-template-Quarto/posts/new-post.html</guid>
   <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
 </item>
