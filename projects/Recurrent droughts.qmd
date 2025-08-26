@@ -1,0 +1,10 @@
+---
+title: "Recurrent droughts"
+image: Recurrent.jpg
+# categories: 
+#   - Drought
+---
+
+Understanding recurrent effects on plants to ecosystems
+
+![](Recurrent.jpg)

@@ -1,0 +1,10 @@
+---
+title: "Metabolomic Differentiation"
+image: Root.jpg
+# categories: 
+#   - Ecometabolomics
+---
+
+A metabolomic approach to tough questions in ecology at high resolution
+
+![](Root.jpg)
