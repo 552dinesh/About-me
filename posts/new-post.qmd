@@ -1,10 +1,10 @@
 ---
-title: "The value of computational ecology"
+title: "Plant Diversity"
 description: "Some thoughts about it"
-author: "John Doe"
+author: "DInesh Thakur"
 date: "2024-10-20"
 categories:
-  - computational
+  - Diversity
 ---
 
-![](../projects/code.jpg)
+![](../projects/images.jpg)

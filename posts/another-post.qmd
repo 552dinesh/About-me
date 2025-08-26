@@ -1,10 +1,10 @@
 ---
-title: "The value of contemplative ecology"
+title: "The value of high resolution ecology"
 description: "Some thoughts about it"
-author: "John Doe"
-date: "2024-10-21"
+author: "Dinesh Thakur"
+date: "2025-08-26"
 categories:
-  - contemplative
+  - Eco-Metabolomics
 ---
 
-![](../projects/contemplation.jpg)
+![](../projects/root.jpg)
