@@ -1,0 +1,10 @@
+---
+title: "Trait Based Ecology"
+image: images.jpg
+# categories: 
+#   - functional diversity
+---
+
+Learning about the natural world just by contemplating it
+
+![](images.jpg)
