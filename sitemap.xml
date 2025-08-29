@@ -2,66 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pakillo.github.io/academic-website-template-Quarto/Projects.html</loc>
-    <lastmod>2025-08-29T20:03:43.910Z</lastmod>
+    <lastmod>2025-08-29T20:05:09.511Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/index.html</loc>
-    <lastmod>2025-08-29T20:03:43.912Z</lastmod>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Open data Networking.html</loc>
+    <lastmod>2025-08-29T20:05:09.472Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/Publications.html</loc>
-    <lastmod>2025-08-29T20:03:43.910Z</lastmod>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Trait scaling.html</loc>
+    <lastmod>2025-08-29T20:05:09.491Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/another-post.html</loc>
-    <lastmod>2025-08-29T20:03:43.912Z</lastmod>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Population and Community ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.473Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Open data Networking.html</loc>
-    <lastmod>2025-08-29T20:03:43.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Trait scaling.html</loc>
-    <lastmod>2025-08-29T20:03:43.929Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Population and Community ecology.html</loc>
-    <lastmod>2025-08-29T20:03:43.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Recurrent droughts.html</loc>
-    <lastmod>2025-08-29T20:03:43.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Physiological ecology.html</loc>
-    <lastmod>2025-08-29T20:03:43.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Molecular interactions ecology.html</loc>
-    <lastmod>2025-08-29T20:03:43.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Diversity and distribution.html</loc>
-    <lastmod>2025-08-29T20:03:43.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Trait based ecology.html</loc>
-    <lastmod>2025-08-29T20:03:43.929Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Floral variation.html</loc>
-    <lastmod>2025-08-29T20:03:43.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/new-post.html</loc>
-    <lastmod>2025-08-29T20:03:43.912Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets.html</loc>
-    <lastmod>2025-08-29T20:03:43.910Z</lastmod>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Recurrent droughts.html</loc>
+    <lastmod>2025-08-29T20:05:09.473Z</lastmod>
   </url>
   <url>
     <loc>https://pakillo.github.io/academic-website-template-Quarto/Blog.html</loc>
-    <lastmod>2025-08-29T20:03:43.906Z</lastmod>
+    <lastmod>2025-08-29T20:05:09.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets.html</loc>
+    <lastmod>2025-08-29T20:05:09.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/new-post.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Floral variation.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Trait based ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Diversity and distribution.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Molecular interactions ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Physiological ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Recurrent droughts.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Population and Community ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Trait scaling.html</loc>
+    <lastmod>2025-08-29T20:05:09.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/Open data Networking.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/another-post.html</loc>
+    <lastmod>2025-08-29T20:05:09.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Publications.html</loc>
+    <lastmod>2025-08-29T20:05:09.512Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/index.html</loc>
+    <lastmod>2025-08-29T20:05:09.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Physiological ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Molecular interactions ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Diversity and distribution.html</loc>
+    <lastmod>2025-08-29T20:05:09.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Trait based ecology.html</loc>
+    <lastmod>2025-08-29T20:05:09.491Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pakillo.github.io/academic-website-template-Quarto/Datasets/Floral variation.html</loc>
+    <lastmod>2025-08-29T20:05:09.472Z</lastmod>
   </url>
 </urlset>
