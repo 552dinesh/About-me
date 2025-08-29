@@ -14,7 +14,14 @@ listing:
 4. Trait dataset_Festuca
 
 5. Trait dataset_1_Rhododendron root metabolome
+
 6. Trait dataset_1_Rhododendron leaf metabolome
+
+7. Soil microbial diversity
+
+8. Species Abundance dataset_Himalaya
+
+9. Climatic Dataset_Western Himalaya 
 
 
 
