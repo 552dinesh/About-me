@@ -1,20 +1,20 @@
 ---
-title: "Projects"
+title: "Datasets"
 listing:
-  contents: projects
+  contents: Datasets
   type: grid
   categories: false
 ---
+1. Metabolomic dataset
 
-1. 2024-2025      Rhododendron Research Network grant from the American Rhododendron Society. 
+2. Trait dataset_1_Rhododendron
 
-2. 2023-2024      Underground explorers research grant from Society for the Protection of Underground Networks (SPUN) https://www.spun.earth/.
+3. Trait dataset Salix
 
-3. 2021-2023	Marie Skłodowska-Curie Action Individual Fellowship , awarded under Horizon 2020 from the European Union, Grant No: 101038052.
+4. Trait dataset_Festuca
 
-4. 2015-2018	Senior Research Fellowship, awarded by University Grants commission, India.
-
-5. 2013-2015	Junior Research Fellowship, awarded by University Grants commission, India.
+5. Trait dataset_1_Rhododendron root metabolome
+6. Trait dataset_1_Rhododendron leaf metabolome
 
 
 
