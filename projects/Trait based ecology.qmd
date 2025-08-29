@@ -1,10 +1,10 @@
 ---
-title: "Contemplative Ecology"
-image: contemplation.jpg
+title: "Trait Based Ecology"
+image: images.jpg
 # categories: 
-#   - contemplation
+#   - functional diversity
 ---
 
 Learning about the natural world just by contemplating it
 
-![](contemplation.jpg)
+![](images.jpg)
