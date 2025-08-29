@@ -2,7 +2,6 @@
   {
     "listing": "/Projects.html",
     "items": [
-      "/projects/Trait based ecology.html",
       "/projects/Physiological ecology.html",
       "/projects/Molecular interactions ecology.html",
       "/projects/Population and Community ecology.html",
@@ -10,7 +9,8 @@
       "/projects/Trait scaling.html",
       "/projects/Open data Networking.html",
       "/projects/Floral variation.html",
-      "/projects/Recurrent droughts.html"
+      "/projects/Recurrent droughts.html",
+      "/projects/Trait based ecology.html"
     ]
   },
   {
