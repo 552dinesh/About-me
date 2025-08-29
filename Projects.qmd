@@ -1,21 +1,12 @@
 ---
-title: "Datasets"
+title: "Projectss"
 listing:
-  contents: datasets
+  contents: projects
   type: grid
   categories: false
 ---
 
-1. Metabolomic dataset
 
-2. Trait dataset_1_Rhododendron
-
-3. Trait dataset Salix
-
-4. Trait dataset_Festuca
-
-5. Trait dataset_1_Rhododendron root metabolome
-6. Trait dataset_1_Rhododendron leaf metabolome
 
 
 
