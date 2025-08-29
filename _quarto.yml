@@ -25,7 +25,9 @@ website:
         text: Home
       - Projects.qmd
       - Publications.qmd
+      - Datasets.qmd
       - Blog.qmd
+
 
       # - icon: mastodon
       #   href: https://joinmastodon.org
