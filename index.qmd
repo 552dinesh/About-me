@@ -29,11 +29,13 @@ about:
     #   href: https://github.com
 ---
 
+Researcher, ["Department of Population Ecology, (IBOT-CAS), Czechia"](https://www.ibot.cas.cz/popekol/).
 Research ID: ["AAL-2676-2020"](https://www.webofscience.com/wos/author/record/AAL-2676-2020) 
 
 Date of birth: 23rd May 1988
 Nationality: India
 Current residency: Czech Republic
+
 
 
 ## Education
@@ -45,9 +47,10 @@ Current residency: Czech Republic
 ## Experience
 
 •	Current position
-Since Jan, 2021-	Post-Doctoral Researcher, Department of Population Ecology, Institute of Botany of the Czech Academy of Sciences (IBOT-CAS), Czech Republic. 
-
+Since January 2025 - Researcher, ["Department of Population Ecology, Institute of Botany of the Czech Academy of Sciences (IBOT-CAS), Czech Republic"](https://www.ibot.cas.cz/popekol/).
 •	Previous positions
+Jan, 2021- Dec. 2024 -	Post-Doctoral Researcher, Department of Population Ecology, Institute of Botany of the Czech Academy of Sciences (IBOT-CAS), Czech Republic. 
+
 2021-2023       Marie Skłodowska-Curie Action - Widening Fellow 
 	Department of Population Ecology, IBOT, CAS, Czech Republic.
 	
