@@ -5,9 +5,3 @@ listing:
   type: grid
   categories: false
 ---
-
-
-
-
-
-
