@@ -1,6 +1,6 @@
 ---
 title: "High altitude Himalaya leaf trait dataset"
-image: Root.jpg
+image: Scaling.jpg
 # categories: 
 #   - Ecometabolomics
 ---
