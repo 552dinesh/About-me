@@ -1,0 +1,10 @@
+---
+title: "Structural vs viochemical traits"
+image: biochemical.jpg
+# categories: 
+#   - Biochemical and structural plant strategies
+---
+
+["Differential effect of climate of origin and cultivation climate on structural and biochemical plant traits'](https://datadryad.org/dataset/doi:10.5061/dryad.x0k6djhpz)
+
+![](biochemical.jpg)
