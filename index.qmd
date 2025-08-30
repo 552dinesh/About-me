@@ -7,11 +7,12 @@ about:
     - icon: envelope
       # text: email
       href: "mailto: 552.dinesh@gmail.com"
+    - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
       href: https://x.com/552Dinesh_Jango
     - icon: github
       href: https://github.com
     - icon: linkedin
-      href: https://www.linkedin.com/in/dinesh-jangoo-4430601a0/
+      href: https://linkedin.com/
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
       href: https://scholar.google.com/citations?user=OPzKV_0AAAAJ&hl=en
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
