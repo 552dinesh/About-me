@@ -1,10 +1,13 @@
 ---
-title: "Metabolomic Differentiation"
+title: "Root Metabolomic Differentiation"
 image: Root.jpg
 # categories: 
 #   - Ecometabolomics
 ---
 
-A metabolomic approach to tough questions in ecology at high resolution
+A metabolomic approach to under root cellular functioning along climatic gradients
 
+["Soil moisture and its interaction with temperature determine root metabolomes of a Himalayan alpine shrub"](https://zenodo.org/records/16568398)
 ![](Root.jpg)
+
+Metabolite interaction network
