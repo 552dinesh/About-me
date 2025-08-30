@@ -8,3 +8,4 @@ image: Scaling.jpg
 ["Increase in light interception cost and metabolic mass component of leaves are coupled for efficient resource use in the high altitude vegetation"](https://datadryad.org/dataset/doi:10.5061/dryad.hf2746d)
 
 ![](Scaling.jpg)
+Relationship between log-log scaling exponents of W–A and A–M relationship for various species. A=leaf area; M=leaf dry mass; W=leaf water mass. Shaded areas represent the 95% confidence intervals.
