@@ -1,0 +1,10 @@
+---
+title: "High altitude Himalaya leaf trait dataset"
+image: Root.jpg
+# categories: 
+#   - Ecometabolomics
+---
+
+["Increase in light interception cost and metabolic mass component of leaves are coupled for efficient resource use in the high altitude vegetation"](https://datadryad.org/dataset/doi:10.5061/dryad.hf2746d)
+
+![](Scaling.jpg)
