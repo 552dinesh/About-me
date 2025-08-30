@@ -6,34 +6,12 @@ listing:
   categories: false
 ---
 
-##International research network Participation
+##International Research Network Participation
 
 Splots; Microclimate Database (MDB), formrerly SoilTemp; TRY, SPUN, RRN
 
 
-##Research Datasets
+##Major Research Datasets
 
 
-1. Metabolomic dataset
-
-2. Trait dataset_1_Rhododendron
-
-3. Trait dataset Salix
-
-4. Trait dataset_Festuca
-
-5. Trait dataset_1_Rhododendron root metabolome
-
-6. Trait dataset_1_Rhododendron leaf metabolome
-
-7. Soil microbial diversity
-
-8. Species Abundance dataset_Himalaya
-
-9. Climatic Dataset_Western Himalaya 
-
-10. Rhododendron research network
-
-
-
-
+1. Metabolomic datasets; 2. Trait datasets_Himalaya and Europe; 3. Soil microbial diversity datasets_Himalaya; 4. Species Abundance dataset_Himalaya; 5 Climatic Dataset_Western Himalaya; Rhododendron specific datasets
