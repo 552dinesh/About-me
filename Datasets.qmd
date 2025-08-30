@@ -17,3 +17,5 @@ Splots; Microclimate Database (MDB), formrerly SoilTemp; TRY, SPUN, RRN
 
 
 1. Metabolomic datasets; 2. Trait datasets_Himalaya and Europe; 3. Soil microbial diversity datasets_Himalaya; 4. Species Abundance dataset_Himalaya; 5 Climatic Dataset_Western Himalaya; Rhododendron specific datasets
+
+
