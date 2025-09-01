@@ -1,10 +1,15 @@
 ---
-title: "Metabolomic Differentiation"
-image: Root.jpg
+title: "HimFunDiff MSCA Project"
+image: Himfundiff.jpg
 # categories: 
 #   - Ecometabolomics
 ---
 
-A metabolomic approach to tough questions in ecology at high resolution
+Functional differentiation in response to environmental variability in two contrasting shrub line species of high-altitude Himalaya: HimFunDiff
 
-![](Root.jpg)
+![](Himfundiff.jpg)
+
+
+Thakur et al (2024). ["Global warming alters Himalayan alpine shrub growth dynamics and climate sensitivity."](https://zenodo.org/records/10547067)
+
+Banerjee S, Rathore N, Semerád J, Cajthaml T, Münzbergová Z, Thakur D. (2025). ["Soil moisture and its interaction with temperature determine root metabolomes of a Himalayan alpine shrub"](https://zenodo.org/records/16568398)
