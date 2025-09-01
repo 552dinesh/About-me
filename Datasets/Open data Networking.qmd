@@ -1,10 +1,10 @@
 ---
-title: "Metabolomic Differentiation"
-image: Root.jpg
+title: "Climate"
+image: climate.jpg
 # categories: 
-#   - Ecometabolomics
+#   - Climatic Data Himalaya
 ---
 
-A metabolomic approach to tough questions in ecology at high resolution
+Climate data from underrepresented regions_Himalaya
 
-![](Root.jpg)
+![](climate.jpg)
