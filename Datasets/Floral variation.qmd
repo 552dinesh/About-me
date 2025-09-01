@@ -1,13 +1,13 @@
 ---
 title: "HimFunDiff MSCA Project"
-image: Himfundiff.jpg
+image: PCAsalix.jpg
 # categories: 
 #   - Ecometabolomics
 ---
 
 Functional differentiation in response to environmental variability in two contrasting shrub line species of high-altitude Himalaya: HimFunDiff
 
-![](Himfundiff.jpg)
+![](PCAsalix.jpg)
 
 
 Thakur et al (2024). ["Global warming alters Himalayan alpine shrub growth dynamics and climate sensitivity."](https://zenodo.org/records/10547067)
