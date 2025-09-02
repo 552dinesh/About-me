@@ -31,7 +31,7 @@ Rathore, N., Hanzelková, V., Dostálek, T., **Thakur, D.**, & Münzbergová, Z.
 	
 **Thakur, D.**, & Chawla, A. (2019). ["Functional diversity along elevational gradients in the high altitude vegetation of the western Himalaya"](https://link.springer.com/article/10.1007/s10531-019-01728-5). Biodiversity and Conservation, 28(8–9), 1977–1996. 
 	
-**Thakur, D.** et al. (2021). ["Identification of ecological factors affecting the occurrence and abundance of Dactylorhiza hatagirea (D.Don) Soo in the Himalaya"](https://doi.org/10.1016/j.jarmap.2020.100286). Journal of Applied Research on Medicinal and Aromatic Plants, 20(April 2020), 100286. https://doi.org/10.1016/j.jarmap.2020.100286
+**Thakur, D.** et al. (2021). ["Identification of ecological factors affecting the occurrence and abundance of *Dactylorhiza hatagirea* (D.Don) Soo in the Himalaya"](https://doi.org/10.1016/j.jarmap.2020.100286). Journal of Applied Research on Medicinal and Aromatic Plants, 20(April 2020), 100286. https://doi.org/10.1016/j.jarmap.2020.100286
 	
 **Thakur, D.** Singh, L., & Chawla, A. (2020). ["Reliability of leaf functional traits after delayed measurements"](https://doi.org/10.1071/BT19166). Australian Journal of Botany, 68(2), 100–107. https://doi.org/10.1071/BT19166
 	
@@ -41,3 +41,4 @@ Rathore, N., **Thakur, D.**, & Chawla, A. (2018). ["Seasonal variations coupled 
 	
 Singh, L., **Thakur, D.** et al. (2021). ["Dynamics of leaf litter decomposition in the timberline zone of western Himalaya"](https://doi.org/10.1016/j.actao.2021.103715). Acta Oecologica, 111, 103715.
 
+**Thakur, D.** et al. (2018) ["Enhanced reproductive success revealed key strategy for persistence of devastated populations in Himalayan food-deceptive orchid, *Dactylorhiza hatagirea*"](https://doi.org/10.1111/1442-1984.12205). Plant Species Biology (2018) 33, 191–202.
